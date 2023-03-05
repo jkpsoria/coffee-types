@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Espresso",
+        "description": "A small, concentrated shot of coffee made by forcing hot water through finely ground, compacted coffee grounds. It's typically served in a small cup."
+    },
+    {
+        "id": 2,
+        "name": "Double Espresso",
+        "description": "Two shots of espresso in one serving, creating a more intense flavor and higher caffeine content."
+    },
+    {
+        "id": 3,
+        "name": "Red Eye",
+        "description": "A cup of drip coffee with a shot of espresso added, designed to give an extra caffeine boost."
+    },
+    {
+        "id": 4,
+        "name": "Black Eye",
+        "description": "Two shots of espresso added to a cup of drip coffee, resulting in an even stronger coffee flavor and higher caffeine content than a red eye."
+    },
+    {
+        "id": 5,
+        "name": "Americano",
+        "description": "A shot of espresso diluted with hot water, creating a similar strength and flavor to drip coffee."
+    },
+    {
+        "id": 6,
+        "name": "Long Black",
+        "description": "Similar to an Americano, but with the hot water added to the cup first and the espresso poured on top, creating a different taste profile."
+    },
+    {
+        "id": 7,
+        "name": "Macchiato",
+        "description": "A shot of espresso with a small amount of milk or foam added on top."
+    },
+    {
+        "id": 8,
+        "name": "Long Macchiato",
+        "description": "Similar to a macchiato, but with a double shot of espresso."
+    },
+    {
+        "id": 9,
+        "name": "Cortado",
+        "description": "A shot of espresso with a small amount of warm, textured milk added to cut the bitterness of the espresso."
+    },
+    {
+        "id": 10,
+        "name": "Breve",
+        "description": "Similar to a latte, but made with half-and-half instead of milk, resulting in a richer, creamier flavor."
+    },
+    {
+        "id": 11,
+        "name": "Cappuccino",
+        "description": "Equal parts espresso, steamed milk, and foam, often with a sprinkle of cocoa or cinnamon on top."
+    },
+    {
+        "id": 12,
+        "name": "Flat White",
+        "description": "Similar to a latte, but with less foam and a higher ratio of espresso to milk."
+    },
+    {
+        "id": 13,
+        "name": "Cafe Latte",
+        "description": "A shot of espresso with steamed milk and a small amount of foam added on top."
+    },
+    {
+        "id": 14,
+        "name": "Mocha",
+        "description": "A latte with added chocolate syrup or cocoa powder, creating a rich, chocolatey flavor."
+    },
+    {
+        "id": 15,
+        "name": "Vienna",
+        "description": "Similar to a mocha, but with whipped cream added on top."
+    },
+    {
+        "id": 16,
+        "name": "Affogato",
+        "description": "A scoop of vanilla ice cream or gelato \"drowned\" in a shot of hot espresso."
+    },
+    {
+        "id": 17,
+        "name": "Cafe au Lait",
+        "description": "A drink made with equal parts brewed coffee and steamed milk, often served in a large bowl or mug."
+    },
+    {
+        "id": 18,
+        "name": "Iced Coffee",
+        "description": "Chilled coffee served over ice, often with milk or sweetener added. It can be brewed hot and then chilled, or made using a cold brew method for a smoother flavor."
+    }
+]
